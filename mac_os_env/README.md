@@ -32,6 +32,7 @@
 ## Screenshot
 
 - [LightShot](https://app.prntscr.com/en/index.html)
+- [Flameshot](https://flameshot.org/)
 
 ## Package manager
 
@@ -74,12 +75,12 @@
 ## Teamworks
 
 - [Slack](https://slack.com/)
+- [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)
 
 ## Video Meetings
 
 - [Zoom](https://zoom.us/)
 - [Meet](https://meet.google.com/)
-- [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)
 
 ## Version Control System
 
